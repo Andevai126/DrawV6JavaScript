@@ -1,0 +1,18 @@
+
+*{
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-color: black;
+}
+
+#myCanvas{
+  /* border: 1px solid black; */
+  left: 50%;
+  transform: translate(-50%);
+  position: absolute;
+  border: none;
+}
